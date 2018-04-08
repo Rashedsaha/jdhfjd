@@ -1,0 +1,64 @@
+header{
+    background-color: #2F5CAF;
+    min-height: 100px;
+/*     overflow:hidden;*/
+}
+.common_bg{
+    background-color: white;
+/*     overflow:hidden;*/
+}
+
+.common_content{
+    background-color: #2F5CAF;
+/*     overflow:hidden;*/
+}
+
+.common_height{
+    min-height: 60px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 34px;
+/*     overflow:hidden;*/
+}
+.common_height_two{
+     min-height: 60px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 34px;
+/*     overflow:hidden;*/
+}
+.breadcrumb{
+    min-height: 50px;
+    background-color: #2F5CAF;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border: 1px solid;
+/*     overflow:hidden;*/
+}
+
+.content_hight{
+    min-height: 440px;
+     overflow:hidden;
+   
+}
+
+.service_height{
+    min-height: 200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+/*     overflow: hidden;*/
+    
+}
+
+.add{
+    min-height: 420px;
+     background-color: #2F5CAF;
+     margin-top: 10px;
+    margin-bottom: 10px;
+    
+/*    overflow:hidden;*/
+}
+
+#service{
+    overflow: hidden;
+}
